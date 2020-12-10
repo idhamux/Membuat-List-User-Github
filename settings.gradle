@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Idham - Dicoding sub 1"
